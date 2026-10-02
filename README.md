@@ -8,3 +8,4 @@ Personal GitHub Pages website for `Heartspell`.
 2. Upload these files to its `main` branch.
 3. In **Settings → Pages**, select **Deploy from a branch**, branch `main`, folder `/ (root)`.
 4. Wait for GitHub Pages to publish the site.
+# Heartspell.github.io
